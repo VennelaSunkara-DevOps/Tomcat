@@ -240,7 +240,7 @@ IQ] How to check tomcat is running or not?
     lsof -i :8080
 
 
-   ps -ef|grep -i "tomcat"
+   ps -ef |grep -i "tomcat"
 
 
 
